@@ -5,7 +5,7 @@ RUN conda install -c anaconda \
     scikit-learn              \
     pandas                    \
     matplotlib                \
-    black
+    autopep8
 
 
 RUN conda install -c conda-forge \
