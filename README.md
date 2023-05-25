@@ -4,6 +4,15 @@ This repository is use to save progress in the freeCodeCamp `PyTorch for Deep Le
 
 # Getting started
 1. Clone the repo
-2. Create venv `python3 -m venv venv`
-3. Install pytorch: `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118`
-4. Install required packages: `pip install -r ./requirements.txt`
+2. Create venv 
+```bash
+python3 -m venv venv
+```
+3. Install pytorch: 
+```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+4. Install required packages: 
+```bash
+pip install -r ./requirements.txt
+```
