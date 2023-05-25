@@ -3,6 +3,7 @@ This repository is use to save progress in the freeCodeCamp `PyTorch for Deep Le
 [https://www.youtube.com/watch?v=V_xro1bcAuA](https://www.youtube.com/watch?v=V_xro1bcAuA)
 
 # Getting started
+To get started follow these steps:
 1. Clone the repo
 ```bash
 git clone git@github.com:apguru/pytorch_beginner_course.git
